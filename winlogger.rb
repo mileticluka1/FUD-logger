@@ -2,7 +2,7 @@
 
 require 'net/ftp'
 require 'open-uri'
-require 'win32api'
+require 'Win32API'
  
 Net::FTP.open('ftp server', 'ftp username', 'ftp password') do |ftp|
   ftp.passive = true

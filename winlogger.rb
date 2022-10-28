@@ -32,7 +32,7 @@ savefile("log.txt",num1.chr())
 end
 end
  
-for num2 in (0x41..0x5A) #letters
+for num2 in (0x41..0x5A)
 if nave.call(num2) & 0x01 == 1 
 savefile("log.txt",num2.chr())
 end

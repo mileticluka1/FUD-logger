@@ -17,15 +17,4 @@ https://rubyinstaller.org/downloads/
 
 I am not responsible for any misuse of my script. It is made for entertaiment/educational purposes only. But if you do use it, hide it, rename log file and you should use eb2a.com for free hosting of your FTP server... and have fun!
 
-KEEP CALM AND
- ____         ____ _  _ ____   ___   ___  ____    _____ _   _ _____
-| __ )  / \  / ___| |/ /  _ \ / _ \ / _ \|  _ \  |_   _| | | | ____|
-|  _ \ / _ \| |   | ' /| | | | | | | | | | |_) |   | | | |_| |  _|  
-| |_) / ___ \ |___| . \| |_| | |_| | |_| |  _ <    | | |  _  | |___ 
-|____/_/   \_\____|_|\_\____/ \___/ \___/|_| \_\   |_| |_| |_|_____|
-                                                                    
- ____  _        _    _   _ _____ _____ 
-|  _ \| |      / \  | \ | | ____|_   _|
-| |_) | |     / _ \ |  \| |  _|   | |  
-|  __/| |___ / ___ \| |\  | |___  | |  
-|_|   |_____/_/   \_\_| \_|_____| |_|
+# KEEP CALM AND BACKDOOR THE PLANET

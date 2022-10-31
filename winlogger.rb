@@ -14,9 +14,12 @@ new = nameofile + "_" + s + extension
 
 if File.file?(nameofile + extension) == true
   File.rename(full, new)
+else
+  File.new "log.txt"
 end
 
-Net::FTP.open('FTP server', 'FTP username', 'FTP password') do |ftp|
+#Put your credentials here
+Net::FTP.open('FTP Server', 'FTP Username', 'FTP Password') do |ftp|
   ftp.passive = true
   ftp.putbinaryfile(new)
 end

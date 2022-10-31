@@ -13,6 +13,8 @@ I recommend making vbs/bat file which will autorun it whenever PC boots so you g
 If you don't convert it to exe, you need to download the following libraries: `win32api`, `net-ftp`, `open-uri` as well as original ruby compiler + devkit:
 https://rubyinstaller.org/downloads/
 
+You also need to enter your FTP credentials in script
+
 # Disclaimer
 
 I am not responsible for any misuse of my script. It is made for entertaiment/educational purposes only. But if you do use it, hide it, rename log file and you should use eb2a.com for free hosting of your FTP server... and have fun!
